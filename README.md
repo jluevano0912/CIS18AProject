@@ -16,7 +16,7 @@ appointment details including the total, it will also display where the recipt.t
 
 How to run in Command Prompt:
 
-    1. Save files to computer
+    1. Download ZIP
     
     2. Open Command Prompt
     

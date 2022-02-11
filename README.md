@@ -15,8 +15,12 @@ appointment details including the total, it will also display where the recipt.t
 
 How to run in Command Prompt:
     1. Save files to computer
+    
     2. Open Command Prompt
+    
     3. Change directory to where the files are saved
+    
     4. Complie using: javac salonpackage/Salon.java
+    
     5. Run using: java salonpackage/Main
 

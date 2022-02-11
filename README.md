@@ -13,7 +13,9 @@ input or move on to the next thing. In the next section the user will enter thei
 from the available options. Once all the information is filled out a receipt will print out displaying all the 
 appointment details including the total, it will also display where the recipt.txt file is located.
 
+
 How to run in Command Prompt:
+
     1. Save files to computer
     
     2. Open Command Prompt
